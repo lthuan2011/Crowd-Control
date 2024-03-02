@@ -9,6 +9,7 @@ X: https://twitter.com/CrowdControlNet
 2 Cores, 4G Ram, 80G SSD, Ubuntu 22.04
 
 # 2. Auto Install 
+Chain ID: **cardtestnet-10**
 ```
 sudo apt install curl -y && source <(curl -s https://nodesync.top/cardchain_auto)
 ```
